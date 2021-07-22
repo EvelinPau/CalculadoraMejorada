@@ -50,7 +50,7 @@ function divnumeros ()
 	}
 	else 
 	{
-	divi.value= (parseInt(num1.value) / parseInt (num2.value)).toFixed(2);
+	divi.value= (parseInt(num1.value) / parseInt (num2.value)).toFixed(3);
 	}
 }
 
